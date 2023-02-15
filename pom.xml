@@ -2,47 +2,47 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.alberto-mr</groupId>
+  <groupId>com.github.JosephAv</groupId>
   <artifactId>tdp-javafx-archetype</artifactId>
   <version>2.0.5</version>
   <packaging>maven-archetype</packaging>
 
   <name>tdp-javafx-archetype</name>
   <description>Maven archetype to create JavaFX applications with Java 11</description>
-  <url>https://github.com/alberto-mr/javafx11-archetype</url>
+  <url>https://github.com/JosephAv/javafx11-archetype</url>
     
   <organization>
-  	<name>com.github.alberto-mr</name>
-    <url>https://github.com/alberto-mr</url>
+  	<name>com.github.JosephAv</name>
+    <url>https://github.com/JosephAv</url>
   </organization>
   
   <issueManagement>
     <system>GitHub</system>
-    <url>https://github.com/alberto-mr/javafx11-archetype/issues</url>
+    <url>https://github.com/JosephAv/javafx11-archetype/issues</url>
   </issueManagement>
   
   <licenses>
     <license>
     	<name>MIT</name>
-        <url>https://github.com/alberto-mr/javafx11-archetype/blob/master/LICENSE</url>
+        <url>https://github.com/JosephAv/javafx11-archetype/blob/master/LICENSE</url>
         <distribution>repo</distribution>
     </license>
   </licenses>
     
   <scm>
-  	<url>https://github.com/alberto-mr/javafx11-archetype</url>
+  	<url>https://github.com/JosephAv/javafx11-archetype</url>
     <connection>
-		scm:git:git://github.com/alberto-mr/javafx11-archetype.git
+		scm:git:git://github.com/JosephAv/javafx11-archetype.git
     </connection>
     <developerConnection>
-       scm:git:ssh://git@github.com:alberto-mr/javafx11-archetype.git
+       scm:git:ssh://git@github.com:JosephAv/javafx11-archetype.git
     </developerConnection>
     <tag>tdp-javafx-archetype-2.0.5</tag>
   </scm>
   
   <developers>
 	<developer>
-      <name>alberto-mr</name>
+      <name>JosephAv</name>
     </developer>
   </developers>
   
